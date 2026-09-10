@@ -8,9 +8,6 @@
   <a href="https://github.com/SohamDesai01">
     <img src="https://img.shields.io/github/followers/SohamDesai01?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn Connect" />
-  </a>
 </p>
 
 ---
