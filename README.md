@@ -16,7 +16,7 @@
 
 I'm a Software Developer and Full-Stack Engineer focused on **web architecture** and **scalable application design**. I like building things that solve a real, specific problem — from e-commerce platforms with optimized database schemas to hardware-integrated safety apps — and I care about the boring-but-critical stuff: clean queries, sane system architecture, and interfaces people actually enjoy using.
 
-Currently pursuing **Engineering in Artificial Intelligence and Data Science** at NHITM, Thane.
+ Currently pursuing **Engineering in Artificial Intelligence and Data Science** at NHITM, Thane.
 
 - 🔭 Building full-stack platforms with **Python, JavaScript & MySQL**
 - 🔌 Prototyping hardware-integrated apps with **Flutter + ESP32**
